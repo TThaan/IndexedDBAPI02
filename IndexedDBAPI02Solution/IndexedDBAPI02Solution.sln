@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexedDBAPI02", "IndexedDBAPI02\IndexedDBAPI02.csproj", "{BDDF557B-DE31-4391-B39B-A9DD2D323E3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDDF557B-DE31-4391-B39B-A9DD2D323E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDF557B-DE31-4391-B39B-A9DD2D323E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDF557B-DE31-4391-B39B-A9DD2D323E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDF557B-DE31-4391-B39B-A9DD2D323E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45942480-82AC-4BDC-935B-776C00E4B9E1}
+	EndGlobalSection
+EndGlobal
